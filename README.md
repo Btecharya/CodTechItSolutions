@@ -8,10 +8,16 @@ TASK 1
 NUMBER GUESSING GAME
 Create a program that generates a random number and asks the user to guess it. Provide feedback on whether
 the guess is too high or too low until the user guesses the correct number.
+
+
+
 TASK 2
 SIMPLE CALCULATOR
 Develop a calculator program that performs basic arithmetic operations such as addition, subtraction,
 multiplication, and division. Allow the user to input two numbers and choose an operation to perform.
+
+
+
 TASK 3
 TIC-TAC-TOE GAME
 Build a simple console-based Tic-Tac-Toe game that allows two players to play against each other
@@ -25,6 +31,9 @@ Check for Draw: Determine if the game is a draw.
 Switch Players: Alternate turns between “X” and “O” players.
 Display Result: Show the result of the game (win, draw, or ongoing).
 Play Again: Ask if the players want to play another game.
+
+
+
 TASK 4
 TO-DO LIST
 Build a simple console-based to-do list manager that allows users to add, view, and delete tasks
@@ -34,6 +43,9 @@ View Tasks: Display the list of tasks with their status (completed or
 pending).
 Mark Task as Completed: Allow users to mark tasks as completed.
 Remove Task: Provide an option to remove tasks from the list.
+
+
+
 TASK 5
 IMAGE PROCESSING TOOL
 Build a tool that allows users to perform various image processing operations like resizing, cropping, and
